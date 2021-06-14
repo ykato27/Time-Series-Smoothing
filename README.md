@@ -1,6 +1,6 @@
-# python-template-repository
+# Time-Series-Smoothing
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+本リポジトリはTime-Series-Smoothing のテンプレートリポジトリです。
 
 
 ## リポジトリ構成
@@ -26,12 +26,12 @@
 
 ## 環境構築
 
-* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/Time-Series-Smoothing）
 ```
-cd Desktop/python-template-repository
+cd Desktop/Time-Series-Smoothing
 ```
 
-* Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+* Dockerによる環境構築（フォルダをマウント：Desktop/Time-Series-Smoothing）
 ```
 docker-compose up --build
 ```
